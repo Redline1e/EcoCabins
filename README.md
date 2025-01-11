@@ -2,6 +2,16 @@
 
 EcoCabins is a web-based project showcasing eco-friendly cabin designs.
 
+## Live Demo
+
+Check out the live demo: [EcoCabins](https://redline1e.github.io/EcoCabins/)
+
+## Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
 ## Project Structure
 
 - **index.html**: The main HTML file of the project.
@@ -20,15 +30,11 @@ EcoCabins is a web-based project showcasing eco-friendly cabin designs.
 - Interactive elements powered by JavaScript.
 - High-quality images showcasing eco-friendly cabins.
 
-## Technologies Used
+## Screenshots
 
-- **HTML5**
-- **CSS3**
-- **JavaScript**
+![EcoCabins Screenshot 1](https://github.com/Redline1e/EcoCabins/blob/main/Public/screenshots/image1.png)
+![EcoCabins Screenshot 2](https://github.com/Redline1e/EcoCabins/blob/main/Public/screenshots/image2.png)
 
 ## Credits
 
 All images and designs are the property of the project creators.
-
----
-
