@@ -35,6 +35,3 @@ Check out the live demo: [EcoCabins](https://redline1e.github.io/EcoCabins/)
 ![EcoCabins Screenshot 1](https://github.com/Redline1e/EcoCabins/blob/main/Public/screenshots/image1.png)
 ![EcoCabins Screenshot 2](https://github.com/Redline1e/EcoCabins/blob/main/Public/screenshots/image2.png)
 
-## Credits
-
-All images and designs are the property of the project creators.
